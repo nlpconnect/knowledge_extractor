@@ -1,24 +1,7 @@
-# Project name here
-> Summary description here.
+# Knowledge Extractor
+> Extract knowledge from text and make it accessible to the world
 
-
-This file will become your README and also the index of your documentation.
 
 ## Install
 
 `pip install knowledge_extractor`
-
-## How to use
-
-Fill me in please! Don't forget code examples:
-
-```
-1+1
-```
-
-
-
-
-    2
-
-

@@ -2,9 +2,11 @@
 
 __all__ = ["index", "modules", "custom_doc_links", "git_url"]
 
-index = {}
+index = {"BartKeywordGenerator": "00_model_based_keyword_generation.ipynb",
+         "ExtractiveKeywordGenerator": "00_model_based_keyword_generation.ipynb",
+         "AbstractiveKeywordGenerator": "00_model_based_keyword_generation.ipynb"}
 
-modules = []
+modules = ["keyword_generators.py"]
 
 doc_url = "https://ankur3107.github.io/knowledge_extractor/"
 

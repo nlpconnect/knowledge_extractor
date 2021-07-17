@@ -10,6 +10,6 @@ entries:
       title: Overview
       url: /
     output: web
-    title: knowledge-extractor
+    title: knowledge_extractor
   output: web
   title: Sidebar

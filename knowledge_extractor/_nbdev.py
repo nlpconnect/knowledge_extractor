@@ -6,8 +6,8 @@ index = {}
 
 modules = []
 
-doc_url = "https://ankur3107.github.io/knowledge-extractor/"
+doc_url = "https://ankur3107.github.io/knowledge_extractor/"
 
-git_url = "https://github.com/ankur3107/knowledge-extractor/tree/master/"
+git_url = "https://github.com/ankur3107/knowledge_extractor/tree/master/"
 
 def custom_doc_links(name): return None

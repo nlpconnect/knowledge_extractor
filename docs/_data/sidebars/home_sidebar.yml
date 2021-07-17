@@ -10,7 +10,7 @@ entries:
       title: Overview
       url: /
     - output: web,pdf
-      title: Title
+      title: Keyword Generation
       url: model_based_keyword_generation.html
     output: web
     title: knowledge_extractor

@@ -12,6 +12,9 @@ entries:
     - output: web,pdf
       title: Keyword Generation
       url: model_based_keyword_generation.html
+    - output: web,pdf
+      title: Token Knowledge Extraction
+      url: token_based_ke.html
     output: web
     title: knowledge_extractor
   output: web

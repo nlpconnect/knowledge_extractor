@@ -4,9 +4,11 @@ __all__ = ["index", "modules", "custom_doc_links", "git_url"]
 
 index = {"BartKeywordGenerator": "00_model_based_keyword_generation.ipynb",
          "ExtractiveKeywordGenerator": "00_model_based_keyword_generation.ipynb",
-         "AbstractiveKeywordGenerator": "00_model_based_keyword_generation.ipynb"}
+         "AbstractiveKeywordGenerator": "00_model_based_keyword_generation.ipynb",
+         "TokenKnowledgeExtractor": "01_token_based_ke.ipynb"}
 
-modules = ["keyword_generators.py"]
+modules = ["keyword_generators.py",
+           "tokens_ke.py"]
 
 doc_url = "https://ankur3107.github.io/knowledge_extractor/"
 

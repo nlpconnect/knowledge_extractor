@@ -1,6 +1,7 @@
 {
   "knowledge_extractor": {
     "Overview": "/",
-    "Keyword Generation": "model_based_keyword_generation.html"
+    "Keyword Generation": "model_based_keyword_generation.html",
+    "Token Knowledge Extraction": "token_based_ke.html"
   }
 }
